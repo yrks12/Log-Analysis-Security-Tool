@@ -105,11 +105,3 @@ Here’s an example of the generated report:
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the functionality or documentation.
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-With this `README.md`, users will have a clear understanding of how to set up and run the tool, as well as how to customize and interpret the output. Let me know if you'd like to add or modify anything!
